@@ -2,19 +2,19 @@
     {
         "titulo": "Huevos fritos",
         "precio": 4.99,
-        "img": "../../assets/img/huevosfritos.jpeg",
+        "img": "img/huevosfritos.jpeg",
         "descripcion": "Deliciosos huevos fritos"
     },
     {
         "titulo": "Hamburguesa",
         "precio": 7.99,
-        "img": "../../assets/img/hamburguesa.jpeg",
+        "img": "img/hamburguesa.jpeg",
         "descripcion": "Hamburguesa de carne vacuna con patatas fritas"
     },
     {
         "titulo": "Pizza",
         "precio": 9.99,
-        "img": "../../assets/img/pizza.jpeg",
+        "img": "img/pizza.jpeg",
         "descripcion": "Pizza carbonara"
     }
 ]
