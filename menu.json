@@ -3,18 +3,21 @@
         "titulo": "Huevos fritos",
         "precio": 4.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/huevosfritos.jpeg",
-        "descripcion": "Deliciosos huevos fritos"
+        "descripcion": "Deliciosos huevos fritos",
+        "filtro": "desayuno"
     },
     {
         "titulo": "Hamburguesa",
         "precio": 7.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/hamburguesa.jpeg",
-        "descripcion": "Hamburguesa de carne vacuna con patatas fritas"
+        "descripcion": "Hamburguesa de carne vacuna con patatas fritas",
+        "filtro": "comida"
     },
     {
         "titulo": "Pizza",
         "precio": 9.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/pizza.jpeg",
-        "descripcion": "Pizza carbonara"
+        "descripcion": "Pizza carbonara",
+        "filtro": "cena"
     }
 ]
