@@ -21,6 +21,9 @@
         "precio": 9.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/pizza.jpeg",
         "descripcion": "Pizza carbonara",
-        "filtro": "cena"
+        "filtro": [
+            "desayuno",
+            "cena"
+        ]
     }
 ]
