@@ -10,28 +10,35 @@
         "titulo": "Hamburguesa",
         "precio": 7.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/hamburguesa.jpeg",
-        "descripcion": "Hamburguesa de carne vacuna con patatas fritas",
+        "descripcion": "Jugosa hamburguesa de carne 100% de res, acompañada de queso derretido, lechuga fresca, tomate y nuestra salsa especial en un pan tostado. ¡Una explosión de sabor en cada bocado!",
         "filtro": "cena"
     },
     {
-        "titulo": "Pizza",
+        "titulo": "Sopa de pescado",
+        "precio": 8.49,
+        "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/sopa.jpeg",
+        "descripcion": "Deliciosa sopa de pescado, hecha con filetes frescos, mariscos y verduras, cocidos en un caldo aromático con hierbas y especias. ¡Un festín marino en cada cucharada!",
+        "filtro": "comida"
+    },
+    {
+        "titulo": "Pizza carbonara",
         "precio": 9.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/pizza.jpeg",
-        "descripcion": "Pizza carbonara",
+        "descripcion": "Exquisita pizza carbonara con una base crujiente, cubierta de salsa cremosa, panceta, mozzarella y un toque de parmesano. ¡Una delicia italiana en cada bocado!",
         "filtro": "cena"
     }
     {
         "titulo": "Crepes",
         "precio": 6.49,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/crepes.jpeg",
-        "descripcion": "Crepes con sirope de chocolate o caramelo",
+        "descripcion": "Deliciosos crepes, ligeros y esponjosos, rellenos de ingredientes dulces o salados a tu elección. ¡Perfectos para cualquier ocasión!",
         "filtro": "desayuno"
     },
     {
         "titulo": "Lentejas",
-        "precio": 4.99,
-        "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/huevosfritos.jpeg",
-        "descripcion": "Lentejas",
+        "precio": 9.99,
+        "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/lentejas.jpeg",
+        "descripcion": "Sabrosas lentejas cocidas a fuego lento con verduras frescas y especias aromáticas, ofreciendo un plato reconfortante y nutritivo. ¡Una opción saludable y deliciosa para disfrutar en cualquier momento!",
         "filtro": "comida"
     },
 ]
