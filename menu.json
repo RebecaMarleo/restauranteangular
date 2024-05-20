@@ -4,7 +4,10 @@
         "precio": 4.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/huevosfritos.jpeg",
         "descripcion": "Deliciosos huevos fritos",
-        "filtro": "desayuno"
+        "filtro": [
+            "desayuno",
+            "cena"
+        ]
     },
     {
         "titulo": "Hamburguesa",
