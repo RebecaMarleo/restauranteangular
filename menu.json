@@ -26,7 +26,7 @@
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/pizza.jpeg",
         "descripcion": "Exquisita pizza carbonara con una base crujiente, cubierta de salsa cremosa, panceta, mozzarella y un toque de parmesano. ¡Una delicia italiana en cada bocado!",
         "filtro": "cena"
-    }
+    },
     {
         "titulo": "Crepes",
         "precio": 6.49,
