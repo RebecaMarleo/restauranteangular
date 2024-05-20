@@ -14,31 +14,10 @@
         "filtro": "cena"
     },
     {
-        "titulo": "Sopa de pescado",
-        "precio": 8.49,
-        "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/sopa.jpeg",
-        "descripcion": "Deliciosa sopa de pescado, hecha con filetes frescos, mariscos y verduras, cocidos en un caldo aromático con hierbas y especias. ¡Un festín marino en cada cucharada!",
-        "filtro": "comida"
-    },
-    {
         "titulo": "Pizza carbonara",
         "precio": 9.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/pizza.jpeg",
         "descripcion": "Exquisita pizza carbonara con una base crujiente, cubierta de salsa cremosa, panceta, mozzarella y un toque de parmesano. ¡Una delicia italiana en cada bocado!",
         "filtro": "cena"
-    },
-    {
-        "titulo": "Crepes",
-        "precio": 6.49,
-        "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/crepes.jpeg",
-        "descripcion": "Deliciosos crepes, ligeros y esponjosos, rellenos de ingredientes dulces o salados a tu elección. ¡Perfectos para cualquier ocasión!",
-        "filtro": "desayuno"
-    },
-    {
-        "titulo": "Lentejas",
-        "precio": 9.99,
-        "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/lentejas.jpeg",
-        "descripcion": "Sabrosas lentejas cocidas a fuego lento con verduras frescas y especias aromáticas, ofreciendo un plato reconfortante y nutritivo. ¡Una opción saludable y deliciosa para disfrutar en cualquier momento!",
-        "filtro": "comida"
     }
 ]
