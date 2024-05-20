@@ -3,27 +3,35 @@
         "titulo": "Huevos fritos",
         "precio": 4.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/huevosfritos.jpeg",
-        "descripcion": "Deliciosos huevos fritos",
-        "filtro": [
-            "desayuno",
-            "cena"
-        ]
+        "descripcion": "Huevos fritos con yema cremosa y clara crujiente, preparados con huevos frescos y un toque de aceite de oliva virgen extra. ¡Perfectos para disfrutar en cualquier momento del día!",
+        "filtro": "desayuno"
     },
     {
         "titulo": "Hamburguesa",
         "precio": 7.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/hamburguesa.jpeg",
         "descripcion": "Hamburguesa de carne vacuna con patatas fritas",
-        "filtro": "comida"
+        "filtro": "cena"
     },
     {
         "titulo": "Pizza",
         "precio": 9.99,
         "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/pizza.jpeg",
         "descripcion": "Pizza carbonara",
-        "filtro": [
-            "desayuno",
-            "cena"
-        ]
+        "filtro": "cena"
     }
+    {
+        "titulo": "Crepes",
+        "precio": 6.49,
+        "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/crepes.jpeg",
+        "descripcion": "Crepes con sirope de chocolate o caramelo",
+        "filtro": "desayuno"
+    },
+    {
+        "titulo": "Lentejas",
+        "precio": 4.99,
+        "img": "https://rebecamarleo.github.io/restauranteangular.github.io/img/huevosfritos.jpeg",
+        "descripcion": "Lentejas",
+        "filtro": "comida"
+    },
 ]
